@@ -1,0 +1,13 @@
+64: 0
+|12 angry men| has been added to the Name database.
+|Spiderman| has been added to the Name database.
+|despicable me| has been added to the Name database.
+16: 48
+|short| has been added to the Name database.
+|12 angry men| has been deleted from the Name database.
+Updated Record: |Spiderman<SEP>Genre<SEP>movie|
+8: 56
+|Spiderman| not updated because the field |movie| does not exist
+Updated Record: |Spiderman|
+8: 56
+16: 16

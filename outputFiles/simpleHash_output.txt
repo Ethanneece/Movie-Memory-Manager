@@ -1,0 +1,12 @@
+Total records: 0
+|Superman| has been added to the Name database.
+|Batman| has been added to the Name database.
+|Ninja Turtles| has been added to the Name database.
+|hi man| has been added to the Name database.
+|Oh man| has been added to the Name database.
+|Batman| 0
+|Oh man| 4
+|Ninja Turtles| 8
+|Superman| 10
+|hi man| 13
+Total records: 5
